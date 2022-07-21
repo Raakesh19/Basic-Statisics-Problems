@@ -13,6 +13,6 @@ Calculate the probability of MPG of Cars for the below cases**
 Find Mean, Median, Mode, Variance, Standard Deviation, and Range and also Comment about the values/ Draw some inferences.
 
 Q 21) Check whether the data follows normal distribution ##a) Check whether the MPG of Cars follows Normal Distribution 
-## Dataset: Cars.csv
+##Dataset: Cars.csv
 b) Check Whether the Adipose Tissue (AT) and Waist Circumference(Waist) from wc-at data set follows Normal Distribution 
 ##Dataset: wc-at.csv
